@@ -10,8 +10,12 @@ The dataset used for this project is Salary_Data.csv. It contains two columns:
 **Salary:** The corresponding salary of the employee.
 The dataset is loaded using pandas library.
 
-Dependencies
-Python 3.x
-pandas
-scikit-learn
+**Dependencies:**  
+
+Python  
+
+pandas  
+
+scikit-learn  
+
 matplotlib
