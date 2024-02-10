@@ -19,3 +19,15 @@ pandas
 scikit-learn  
 
 matplotlib
+
+**This script will:**
+
+Load the dataset.  
+
+Split the dataset into training and testing sets.  
+
+Train a simple linear regression model on the training data.  
+
+Predict salaries for the testing data.  
+
+Visualize the results with scatter plots.
